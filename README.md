@@ -33,7 +33,7 @@ Cada inimigo derrotado concede pontos, e o objetivo é sobreviver o máximo poss
 |------|-------|
 | Mover | A / D ou Setas |
 | Pular | Espaço |
-| Atacar | J |
+| Atacar | botao direito do mouse |
 | Pausar | ESC |
 
 ---
