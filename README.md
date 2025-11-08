@@ -1,6 +1,6 @@
 # jogo-2# Battle of the Kingdom
 
- **Projeto de Desenvolvimento de Jogos — Python (Pygame, 2D, Era Medieval)**
+ **Projeto de Desenvolvimento de Jogos — Unity (C#, 2D, Era Medieval)**
 
 ---
 
