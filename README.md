@@ -14,7 +14,7 @@
 
 ##  Ideia Principal
 
-**Battle of the Kingdom** é um jogo 2D feito em Python com Pygame, ambientado na era medieval.  
+**Battle of the Kingdom** é um jogo 2D feito no Unity com C#, ambientado na era medieval.  
 O jogador controla um cavaleiro solitário que deve proteger o castelo de ondas de inimigos.  
 Cada inimigo derrotado concede pontos, e o objetivo é sobreviver o máximo possível.
 
@@ -40,7 +40,6 @@ Cada inimigo derrotado concede pontos, e o objetivo é sobreviver o máximo poss
 
 ##  Sistema de Pontuação
 - +10 pontos por inimigo derrotado  
-- A cada 100 pontos, o jogador recupera um pouco de vida  
 - Quando a vida chega a zero → **Game Over**
 
 ---
@@ -58,8 +57,8 @@ src/
 ---
 
 ##  Ferramentas
-- Python 3.x  
-- Pygame  
+- Unity  
+- C# 
 - Git / GitHub  
 
 ---
